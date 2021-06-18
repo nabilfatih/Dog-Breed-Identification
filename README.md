@@ -8,6 +8,8 @@ However, maybe they can answer that ubiquitous question we all ask when meeting 
 It's a virtual environment, i've already install all the tools that needed for this project using `conda` and `pip` for TensorFlow. 
 you can easily use this environment.
 
+**Note:** You can see all the steps in `dog-vision.ipynb` Notebook.
+
 ## Tools:
 
 * Pandas: `conda install pandas`
